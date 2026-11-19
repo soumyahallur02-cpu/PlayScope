@@ -68,7 +68,6 @@ st.markdown("""
 [data-testid="stSidebar"] [data-baseweb="select"] span {
     color: #FFFFFF !important;
 }
-
 /* Dropdown options */
 [data-baseweb="popover"],
 [data-baseweb="menu"] {
