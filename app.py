@@ -8,7 +8,6 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import streamlit as st
 
-
 # ==================================================
 # 1. PAGE CONFIGURATION
 # ==================================================
