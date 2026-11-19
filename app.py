@@ -11,7 +11,6 @@ import streamlit as st
 # ==================================================
 # 1. PAGE CONFIGURATION
 # ==================================================
-
 st.set_page_config(
     page_title="PlayScope Analytics",
     page_icon="📱",
