@@ -1,4 +1,3 @@
-
 # PlayScope – Google Play Store Analytics Dashboard
 
 ## Project Overview
