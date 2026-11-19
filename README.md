@@ -10,7 +10,6 @@ It analyzes Google Play Store applications to understand app installs, estimated
 - Pandas
 - Plotly
 - CSV datasets
-
 ## Main Features
 
 1. Premium dark-themed dashboard.
