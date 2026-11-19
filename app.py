@@ -52,7 +52,6 @@ st.markdown("""
     color: #38BDF8 !important;
     font-weight: 700 !important;
 }
-
 /* Sidebar text inputs */
 [data-testid="stSidebar"] input {
     background-color: #334155 !important;
