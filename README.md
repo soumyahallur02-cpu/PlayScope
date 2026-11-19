@@ -36,7 +36,6 @@ Outside this period, the chart is hidden.
 
 ## Installation
 Install Python 3.10 or above.
-
 Create virtual environment:
 
 ```bash
