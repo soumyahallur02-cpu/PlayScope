@@ -58,7 +58,6 @@ st.markdown("""
     color: #FFFFFF !important;
     border: 1px solid #64748B !important;
 }
-
 /* Sidebar dropdowns */
 [data-testid="stSidebar"] [data-baseweb="select"] > div {
     background-color: #334155 !important;
