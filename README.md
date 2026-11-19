@@ -60,7 +60,6 @@ data/
 ## Revenue Calculation
 Estimated Revenue = Install Count × App Price
 Free apps are retained with zero direct download revenue.
-
 The $10,000 revenue threshold applies to paid apps only.
 
 ## Developer
