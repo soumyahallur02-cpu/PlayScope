@@ -48,7 +48,6 @@ Install packages:
 pip install -r requirements.txt
 ```
 Run the application:
-
 ```bash
 streamlit run app.py
 ```
