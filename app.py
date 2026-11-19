@@ -45,7 +45,6 @@ st.markdown("""
 [data-testid="stSidebar"] div {
     color: #F8FAFC !important;
 }
-
 /* Sidebar headings */
 [data-testid="stSidebar"] h1,
 [data-testid="stSidebar"] h2,
