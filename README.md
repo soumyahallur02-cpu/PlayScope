@@ -57,7 +57,6 @@ data/
     Play Store Data.csv
     User Reviews.csv
 ```
-
 ## Revenue Calculation
 
 Estimated Revenue = Install Count × App Price
