@@ -2,7 +2,6 @@
 ## Project Overview
 
 PlayScope is a premium interactive dashboard developed using Python and Streamlit.
-
 It analyzes Google Play Store applications to understand app installs, estimated revenue, category performance and user review sentiment.
 
 ## Technologies Used
