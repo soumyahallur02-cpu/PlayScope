@@ -58,7 +58,6 @@ data/
     User Reviews.csv
 ```
 ## Revenue Calculation
-
 Estimated Revenue = Install Count × App Price
 
 Free apps are retained with zero direct download revenue.
