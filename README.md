@@ -52,7 +52,6 @@ Run the application:
 streamlit run app.py
 ```
 ## Dataset Structure
-
 ```text
 data/
     Play Store Data.csv
