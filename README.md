@@ -22,7 +22,6 @@ It analyzes Google Play Store applications to understand app installs, estimated
 9. Filtered CSV download.
 
 ## Data Filters
-
 - Installs >= 10,000
 - Paid app revenue >= $10,000
 - Android version > 4.0
