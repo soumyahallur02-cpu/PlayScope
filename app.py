@@ -28,7 +28,6 @@ st.markdown("""
     background: linear-gradient(135deg, #101827, #17243a);
     color: #F8FAFC;
 }
-
 .block-container {
     padding-top: 2rem;
     padding-bottom: 2rem;
