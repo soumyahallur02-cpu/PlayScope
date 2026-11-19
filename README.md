@@ -40,7 +40,6 @@ Create virtual environment:
 ```bash
 python -m venv venv
 ```
-
 Activate on Git Bash:
 
 ```bash
