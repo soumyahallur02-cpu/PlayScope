@@ -63,5 +63,4 @@ Free apps are retained with zero direct download revenue.
 The $10,000 revenue threshold applies to paid apps only.
 
 ## Developer
-
 Developed as a Google Play Store Data Analytics project.
