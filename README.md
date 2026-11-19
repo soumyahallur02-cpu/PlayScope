@@ -31,7 +31,6 @@ It analyzes Google Play Store applications to understand app installs, estimated
 
 ## Time Restriction
 The main dual-axis chart is available only between:
-
 1:00 PM and 2:00 PM IST.
 
 Outside this period, the chart is hidden.
