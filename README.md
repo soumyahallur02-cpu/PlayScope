@@ -41,7 +41,6 @@ Create virtual environment:
 python -m venv venv
 ```
 Activate on Git Bash:
-
 ```bash
 source venv/Scripts/activate
 ```
