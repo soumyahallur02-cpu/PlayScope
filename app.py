@@ -37,7 +37,6 @@ st.markdown("""
     background: linear-gradient(180deg, #111827, #1E293B);
     border-right: 1px solid #475569;
 }
-
 /* Sidebar text */
 [data-testid="stSidebar"],
 [data-testid="stSidebar"] p,
