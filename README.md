@@ -11,7 +11,6 @@ It analyzes Google Play Store applications to understand app installs, estimated
 - Plotly
 - CSV datasets
 ## Main Features
-
 1. Premium dark-themed dashboard.
 2. Free vs Paid app comparison.
 3. Dual-axis chart for average installs and revenue.
