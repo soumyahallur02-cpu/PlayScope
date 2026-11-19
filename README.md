@@ -1,5 +1,4 @@
 # PlayScope – Google Play Store Analytics Dashboard
-
 ## Project Overview
 
 PlayScope is a premium interactive dashboard developed using Python and Streamlit.
