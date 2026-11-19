@@ -51,7 +51,6 @@ Run the application:
 ```bash
 streamlit run app.py
 ```
-
 ## Dataset Structure
 
 ```text
