@@ -30,7 +30,6 @@ It analyzes Google Play Store applications to understand app installs, estimated
 - App name length <= 30 characters
 
 ## Time Restriction
-
 The main dual-axis chart is available only between:
 
 1:00 PM and 2:00 PM IST.
